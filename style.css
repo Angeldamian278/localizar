@@ -38,8 +38,8 @@ section {
 }
 
 img {
-    width: 45%;
-    margin: 10px;
+    width: 50%;
+    margin: 250px;
     border-radius: 8px;
 }
 
@@ -54,11 +54,12 @@ input, button {
     padding: 8px;
     width: 60%;
     font-size: 1rem;
+    
 }
 
 button {
     background-color: #0000009f;
-    color: white;
+    color: rgb(152, 88, 88);
     border: none;
     cursor: pointer;
 }
@@ -72,3 +73,4 @@ footer {
     color: white;
     padding: 10px;
 }
+
